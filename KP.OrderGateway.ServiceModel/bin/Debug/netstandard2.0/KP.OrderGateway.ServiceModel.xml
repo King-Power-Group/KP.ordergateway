@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KP.OrderGateway.ServiceModel</name>
+    </assembly>
+    <members>
+        <member name="T:KP.OrderGateway.ServiceModel.ReceiveOrderInfoModel">
+            <summary>
+            ReceiveOrderInfoModel
+            </summary>
+        </member>
+    </members>
+</doc>

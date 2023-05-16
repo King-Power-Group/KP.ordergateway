@@ -1,0 +1,9 @@
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\bin\Release\netstandard2.0\KP.OrderGateway.ServiceModel.deps.json
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\bin\Release\netstandard2.0\KP.OrderGateway.ServiceModel.dll
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\bin\Release\netstandard2.0\KP.OrderGateway.ServiceModel.pdb
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\obj\Release\netstandard2.0\KP.OrderGateway.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\obj\Release\netstandard2.0\KP.OrderGateway.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\obj\Release\netstandard2.0\KP.OrderGateway.ServiceModel.AssemblyInfo.cs
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\obj\Release\netstandard2.0\KP.OrderGateway.ServiceModel.dll
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\obj\Release\netstandard2.0\KP.OrderGateway.ServiceModel.pdb
+C:\Users\ratta\Documents\GitHub\kp.ordergateway\KP.OrderGateway.ServiceModel\obj\Release\netstandard2.0\KP.OrderGateway.ServiceModel.csprojAssemblyReference.cache
