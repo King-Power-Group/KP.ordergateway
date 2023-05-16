@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace KP.OrderGateway.DBModel.NewKpiEntity
+{
+    public partial class DfCardType
+    {
+        public string CardTypeId { get; set; }
+        public string CardTypeCode { get; set; }
+        public string Description { get; set; }
+        public string MemCondition { get; set; }
+        public int MemType { get; set; }
+        public string DelFlag { get; set; }
+        public string Remark { get; set; }
+        public DateTime AddDatetime { get; set; }
+        public DateTime UpdateDatetime { get; set; }
+        public string UserAdd { get; set; }
+        public string UserUpdate { get; set; }
+        public byte[] TimeStamp { get; set; }
+        public string CardGroupId { get; set; }
+    }
+}

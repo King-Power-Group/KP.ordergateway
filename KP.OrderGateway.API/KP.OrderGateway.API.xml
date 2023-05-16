@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KP.OrderGateway.API</name>
+    </assembly>
+    <members>
+        <member name="M:KP.OrderGateway.API.Controllers.OrderManagementController.DuplicateReceiveOrder(KP.OrderGateway.ServiceModel.ReceiveOrderInfoModel)">
+            <summary>
+            Duplicate Order for Receive
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KP.OrderGateway.API.Controllers.OrderManagementController.DuplicateCancelOrder(KP.OrderGateway.ServiceModel.ReceiveOrderInfoModel)">
+            <summary>
+            Duplicate Order for Cancel 
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
